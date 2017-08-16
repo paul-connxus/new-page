@@ -19,7 +19,7 @@ class App extends Component {
           </div>
           <Sidebar />
           <div className="text-area">
-            <textarea className="text-block" />
+            <textarea  className="text-block" />
           </div>
         </div>
       </div>
